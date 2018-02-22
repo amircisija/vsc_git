@@ -1,5 +1,3 @@
-# vsc_git
-Testing GIT with Visual Studio Code #1
+# Simple CRUD PHP / MySQL
+This is a simple CRUD system for adding Users
 
-# vsc_git 2
-Additional Paragraph
